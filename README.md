@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Backend 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/ramyalakhani2108/ramyalakhani2108/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
@@ -91,18 +91,18 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/ramyalakhani2108">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramyalakhani2108&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/ramyalakhani2108">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyalakhani2108&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ramyalakhani2108&theme=react-dark&hide_border=true&area=true)
 
 
 <h4 align="center">
@@ -249,10 +249,10 @@
 
 #
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![footer](https://github.com/ramyalakhani2108/ramyalakhani2108/blob/main/WEBP/footer.webp)
 
 
 -----
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+**Credits**: [ramyalakhani2108](https://github.com/ramyalakhani2108)
 
 **Last Edited on**: 20/04/2024
