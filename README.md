@@ -29,7 +29,7 @@
   <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <a href="https://github.com/sponsors/ramyalakhani2108"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
 
@@ -39,7 +39,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyalakhani2108&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
